@@ -10,3 +10,5 @@ function hamming (stringA, stringB) {
 console.log(hamming("10111","10100"))
 
 
+// Hamming distance is a metric for comparing two binary data strings. While comparing two binary strings of equal length, Hamming distance is the number
+//  of bit positions in which the two bits are different. The Hamming distance between two strings, a and b is denoted as d(a,b)
