@@ -10,15 +10,3 @@ function hamming (stringA, stringB) {
 console.log(hamming("10111","10100"))
 
 
-// function loopThrough(array,test) {
-//         let finalArray = []
-//         for (i = 0; i < array.length; i += 2) { 
-//             finalArray.push(test(array[i]))
-//         }
-//         return finalArray
-// }
-//     console.log(loopThrough(["i","j","k","l","m","n","o","p","q","r"], a => a + "hey"))
-     
-   
-    
-    
