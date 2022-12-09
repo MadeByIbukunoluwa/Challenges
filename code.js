@@ -8,4 +8,4 @@ function code(n) {
   }).join('')
 }
 
-console.log(code('bnchmf'))
+console.log(code('bnchmf')); // Exxpected Output - 'coding'
